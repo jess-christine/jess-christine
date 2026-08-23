@@ -36,6 +36,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=dark" alt="jess-christine stats" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jess-christine&" alt="jess-christine" /></p>
