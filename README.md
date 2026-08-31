@@ -3,22 +3,20 @@
 
   <br />
 
-  <!-- Switched to the more stable herokuapp mirror -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&lines=📊+Data+Engineer+%7C+🔬+Data+Scientist;🏗️+Building+scalable+ETL+pipelines;📈+Turning+data+into+insights;🌟+PUP+Statistics+Graduate" alt="Typing SVG" />
 
   <br />
 
-  <!-- Interactive Contribution Graph Section -->
-<!-- Interactive Contribution Graph Section -->
 <details open>
 <summary><b>🐛 My Contribution Journey (Click to collapse)</b></summary>
 <br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&theme=github-dark&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true&cache_seconds=86400" alt="GitHub Contribution Graph" width="100%" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&theme=github-dark&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true&v=1" alt="GitHub Contribution Graph" width="100%" />
+</div>
 </details>
 
   <br />
 
-  <!-- Quick Links -->
   <div>
     <a href="https://www.linkedin.com/in/jess-christine-manuel" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -36,12 +34,9 @@
 
 <hr />
 
-
-
 <div align="center">
   <p style="color: #00d2ff; font-family: monospace;">> Loading proficiency_distribution.model...</p>
   
-  <!-- Using a relative path. The GIF must be in the same repo as this README! -->
   <img src="assets/morphing_with_bars.gif" alt="Morphing Skew Normal Distribution" width="800" />
 </div>
 
@@ -114,33 +109,22 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 
 <br />
 
-
 ---
 
 ## 📈 Performance Metrics & Achievements
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=github_dark&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400&v=1" alt="GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=github_dark&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jess-christine&layout=compact&theme=github_dark&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jess-christine&layout=compact&theme=github_dark&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400&v=1" alt="Top Languages" width="48%" />
 </div>
-
 <br />
 
 <div align="center">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jess-christine&theme=github_dark&hide_border=true&ring=00d2ff&fire=ff0080&currStreakNum=ffffff&sideNums=00d2ff&background=0d1117" alt="GitHub Streak" />
-
 </div>
 
 <br />
-
-<div align="center">
-  
-  
-</div>
 
 ---
 
@@ -161,15 +145,15 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
       <small>Advanced QGIS integration</small>
     </td>
     <td align="center" width="25%">
-      <b>📊 Actuarial Science</b><br/>
-      <small>Probability & Risk Management</small>
+        <b>🤖 Machine Learning</b><br/>
+      <small>Deep Learning & Predictive Models</small>
     </td>
   </tr>
 </table>
 
 ---
 
-  
+<div align="center">
   <br /><br />
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=50&section=footer" width="100%" />
@@ -177,7 +161,6 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
   <br />
   
   <img src="https://komarev.com/ghpvc/?username=jess-christine&color=ff0080&style=flat-square&label=Profile+Visitors" alt="Profile Views" />
-
 </div>
 
 <br />
