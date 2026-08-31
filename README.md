@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=150&section=header&text=Jess%20Christine%20Manuel&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Technical%20Data%20Professional%20%7C%20Data%20Engineer%20%7C%20Statistician&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=150&section=header&text=Jess%20Christine%20Manuel&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Technical%20Data%20Professional%20%7C%20Data%20Engineer%20%7C%20Statistician&descAlignY=55&descAlign=50" alt="Header" />
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&lines=📊+Data+Engineer+%7C+🔬+Data+Scientist;🏗️+Building+scalable+ETL+pipelines;📈+Turning+data+into+insights;🌟+PUP+Statistics+Graduate" />
+  <!-- Switched to the more stable herokuapp mirror -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&lines=📊+Data+Engineer+%7C+🔬+Data+Scientist;🏗️+Building+scalable+ETL+pipelines;📈+Turning+data+into+insights;🌟+PUP+Statistics+Graduate" alt="Typing SVG" />
 
   <br />
 
@@ -12,7 +13,8 @@
     <summary><b>🐛 My Contribution Journey (Click to collapse)</b></summary>
     <br />
     
-  ![Jess's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&theme=github-dark&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true)
+    <!-- Changed to HTML img tag to prevent Markdown parser breaking -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&theme=github-dark&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true&cache_seconds=86400" alt="GitHub Contribution Graph" width="100%" />
     
   </details>
 
@@ -34,7 +36,30 @@
 
 <br />
 
----
+<hr />
+
+## 📊 Skill Proficiency Distribution - Dynamic Normal Distribution
+
+<div align="center">
+
+<details open>
+  <summary><b>📈 Interactive Skill Proficiency Curve (Click Chart to Expand)</b></summary>
+  
+  <br />
+  
+  <!-- Fully URL-Encoded QuickChart string embedded safely in HTML tags -->
+  <a href="https://quickchart.io/chart?c=%7Btype%3A%27line%27%2Cdata%3A%7Blabels%3A%5B%27Beginner%27%2C%27Basic%27%2C%27Intermediate%27%2C%27Advanced%27%2C%27Expert%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Current%20Proficiency%27%2Cdata%3A%5B15%2C35%2C65%2C92%2C85%5D%2CborderColor%3A%27%2300d2ff%27%2CbackgroundColor%3A%27rgba%280%2C210%2C255%2C0.1%29%27%2CborderWidth%3A3%2Cfill%3Atrue%2Ctension%3A0.4%2CpointRadius%3A6%2CpointBackgroundColor%3A%27%23ff0080%27%2CpointBorderColor%3A%27%2300d2ff%27%2CpointBorderWidth%3A2%7D%2C%7Blabel%3A%27Target%20Distribution%27%2Cdata%3A%5B10%2C30%2C70%2C95%2C90%5D%2CborderColor%3A%27%23ff0080%27%2CborderDash%3A%5B5%2C5%5D%2CbackgroundColor%3A%27rgba%28255%2C0%2C128%2C0.05%29%27%2CborderWidth%3A2%2Cfill%3Afalse%2Ctension%3A0.4%2CpointRadius%3A4%2CpointBackgroundColor%3A%27%233a86ff%27%2CpointBorderColor%3A%27%23ff0080%27%7D%5D%7D%2Coptions%3A%7Bresponsive%3Atrue%2CmaintainAspectRatio%3Atrue%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Atrue%2Clabels%3A%7Bcolor%3A%27%23ffffff%27%2Cfont%3A%7Bsize%3A12%7D%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Skill%20Proficiency%20Normal%20Distribution%27%2Ccolor%3A%27%23ffffff%27%7D%7D%2Cscales%3A%7By%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%2Cticks%3A%7Bcolor%3A%27%23ffffff%27%7D%2Cgrid%3A%7Bcolor%3A%27rgba%2858%2C134%2C255%2C0.1%29%27%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Proficiency%20%25%27%2Ccolor%3A%27%23ffffff%27%7D%7D%2Cx%3A%7Bticks%3A%7Bcolor%3A%27%23ffffff%27%7D%2Cgrid%3A%7Bcolor%3A%27rgba%2858%2C134%2C255%2C0.1%29%27%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Skill%20Level%27%2Ccolor%3A%27%23ffffff%27%7D%7D%7D%7D&w=900&h=500&bkg=0d1117" target="_blank">
+    <img src="https://quickchart.io/chart?c=%7Btype%3A%27line%27%2Cdata%3A%7Blabels%3A%5B%27Beginner%27%2C%27Basic%27%2C%27Intermediate%27%2C%27Advanced%27%2C%27Expert%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Current%20Proficiency%27%2Cdata%3A%5B15%2C35%2C65%2C92%2C85%5D%2CborderColor%3A%27%2300d2ff%27%2CbackgroundColor%3A%27rgba%280%2C210%2C255%2C0.1%29%27%2CborderWidth%3A3%2Cfill%3Atrue%2Ctension%3A0.4%2CpointRadius%3A6%2CpointBackgroundColor%3A%27%23ff0080%27%2CpointBorderColor%3A%27%2300d2ff%27%2CpointBorderWidth%3A2%7D%2C%7Blabel%3A%27Target%20Distribution%27%2Cdata%3A%5B10%2C30%2C70%2C95%2C90%5D%2CborderColor%3A%27%23ff0080%27%2CborderDash%3A%5B5%2C5%5D%2CbackgroundColor%3A%27rgba%28255%2C0%2C128%2C0.05%29%27%2CborderWidth%3A2%2Cfill%3Afalse%2Ctension%3A0.4%2CpointRadius%3A4%2CpointBackgroundColor%3A%27%233a86ff%27%2CpointBorderColor%3A%27%23ff0080%27%7D%5D%7D%2Coptions%3A%7Bresponsive%3Atrue%2CmaintainAspectRatio%3Atrue%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Atrue%2Clabels%3A%7Bcolor%3A%27%23ffffff%27%2Cfont%3A%7Bsize%3A12%7D%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Skill%20Proficiency%20Normal%20Distribution%27%2Ccolor%3A%27%23ffffff%27%7D%7D%2Cscales%3A%7By%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%2Cticks%3A%7Bcolor%3A%27%23ffffff%27%7D%2Cgrid%3A%7Bcolor%3A%27rgba%2858%2C134%2C255%2C0.1%29%27%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Proficiency%20%25%27%2Ccolor%3A%27%23ffffff%27%7D%7D%2Cx%3A%7Bticks%3A%7Bcolor%3A%27%23ffffff%27%7D%2Cgrid%3A%7Bcolor%3A%27rgba%2858%2C134%2C255%2C0.1%29%27%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Skill%20Level%27%2Ccolor%3A%27%23ffffff%27%7D%7D%7D%7D&w=900&h=500&bkg=0d1117" alt="Dynamic Normal Distribution" />
+  </a>
+
+  <br />
+  
+  **📊 Real-time Metrics:**
+  - **Current Mean:** 78.4 | **Target Mean:** 80.0
+  - **Kurtosis:** 2.3 (Leptokurtic - peaked distribution)
+  - **Skewness:** -0.15 (Slightly left-skewed toward expertise)
+  
+</details>
 
 ## 📊 Skill Proficiency Distribution - Dynamic Normal Distribution
 
