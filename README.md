@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=200&section=header&text=Jess%20Christine%20&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Technical%20Data%20Professional%20%7C%20Data%20Engineer%20%7C%20Statistician&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=200&section=header&text=Jess%20Christine%20&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&lines=📊+Data+Engineer+%7C+🔬+Data+Scientist;🏗️+Building+scalable+ETL+pipelines;📈+Turning+data+into+insights;🌟+PUP+Statistics+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&lines=📊+Data+Engineer+%7C+🔬+Data+Scientist;🎯+Statistical+Analyst+%7C+📈+ML+Practitioner" />
 
   <br />
 
@@ -11,7 +11,7 @@
 <summary><b>🐛 My Contribution Journey (Click to collapse)</b></summary>
 <br />
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&theme=github-dark&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true&v=1" alt="GitHub Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&theme=github-dark&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true&v=1" alt="Contribution Graph" />
 </div>
 </details>
 
@@ -61,7 +61,7 @@
 
 ## 🚀 Executive Summary
 
-I am a **Technical Data Professional** with a specialized degree in Statistics from the **Polytechnic University of the Philippines**. I bridge the gap between complex statistical theory and scalable engineering solutions, architecting data systems that drive measurable business impact and fuel advanced machine learning research.
+I am a **Technical Data Professional** with a specialized degree in Statistics from the **Polytechnic University of the Philippines**. I bridge the gap between complex statistical theory and scalable data engineering solutions. My expertise spans the modern data stack (Databricks, Apache Spark, SQL) combined with rigorous statistical methodologies and business intelligence visualization.
 
 ### 🎯 Core Value Proposition:
 - **Statistical Integrity**: Applying formal statistical rigor to data validation, probability mapping, and ML modeling.
@@ -103,9 +103,9 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 
 | 🎓 Project | 📊 Key Impact & Methods | 🔧 Tech Stack | ⭐ Repository Link |
 |:---|:---|:---|:---|
-| **Energy Demand Forecasting Models** | Developed Grey Model (1,1) & Markov Chain Grey Models for petroleum energy demand forecasting. Presented at the BDCI International Conference in Fukuoka, Japan. | Python, Statistical Modeling, Time Series | [![View Repo](https://img.shields.io/badge/→_View_Code-00d2ff?style=flat-square&logo=github)](https://github.com/jess-christine) |
-| **Disaster Risk Clustering (Metro Manila)** | Leveraged Unsupervised Machine Learning algorithms to cluster and analyze disaster risk and preparedness levels across Greater Metro Manila. | R, Machine Learning, K-Means Clustering | [![View Repo](https://img.shields.io/badge/→_View_Code-ff0080?style=flat-square&logo=github)](https://github.com/jess-christine) |
-| **Retail & E-commerce Data Pipeline** | Engineered an end-to-end ETL pipeline processing high-volume retail data to evaluate macro-economic and seasonal sales trends. | Python, Pandas, Parquet, PostgreSQL | [![View Repo](https://img.shields.io/badge/→_View_Code-3a86ff?style=flat-square&logo=github)](https://github.com/jess-christine) |
+| **[Analyzing Students' Mental Health](https://github.com/jess-christine/Analyzing-Students-Mental-Health)** | PostgreSQL data analysis evaluating the impact of international university study on student mental health. Measured depression, social connectedness, and acculturative stress across length of stay. | PostgreSQL, SQL, Jupyter Notebook, Data Analysis | [:link: View Project](https://github.com/jess-christine/Analyzing-Students-Mental-Health) |
+| **[Building Walmart Retail Data Pipeline](https://github.com/jess-christine/Building-Walmart-Retail-Data-Pipeline)** | End-to-end Python ETL pipeline processing Walmart's e-commerce and retail sales data to evaluate macroeconomic and holiday sales trends. Built with Pandas, Parquet, and PostgreSQL. | Python, Pandas, Parquet, PostgreSQL, ETL | [:link: View Project](https://github.com/jess-christine/Building-Walmart-Retail-Data-Pipeline) |
+| **[Identifying Flight Duration Trends in NYC Air Travel](https://github.com/jess-christine/Identifying-Flight-Duration-Trends-in-Air-Travel)** | R and Tidyverse data analysis evaluating flight durations, route frequencies, and destination metrics for departures from major NYC airports during H2 2022. | R, Tidyverse, dplyr, Jupyter Notebook, Data Visualization | [:link: View Project](https://github.com/jess-christine/Identifying-Flight-Duration-Trends-in-Air-Travel) |
 
 <br />
 
@@ -114,9 +114,9 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 ## 📈 Performance Metrics & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=github_dark&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=github_dark&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jess-christine&layout=compact&theme=github_dark&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400&v=1" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jess-christine&layout=compact&theme=github_dark&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 <br />
 
