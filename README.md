@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=150&section=header&text=Jess%20Christine%20Manuel&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Technical%20Data%20Professional%20%7C%20Data%20Engineer%20%7C%20Statistician&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=200&section=header&text=Jess%20Christine%20&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Technical%20Data%20Professional%20%7C%20Data%20Engineer%20%7C%20Statistician&descAlignY=55&descAlign=50" alt="Header" />
 
   <br />
 
@@ -114,14 +114,6 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 
 <br />
 
-<details>
-  <summary><b>💡 Why These Projects Matter (Click to expand)</b></summary>
-  
-  - **Energy Demand Forecasting**: Demonstrates ability to handle complex, high-stakes time-series data and communicate findings on an international stage.
-  - **Disaster Risk Clustering**: Showcases the direct application of machine learning to solve critical, real-world logistical and safety challenges.
-  - **Retail Pipeline**: Highlights full ETL lifecycle mastery, taking raw, messy data and structuring it for immediate business intelligence consumption.
-  
-</details>
 
 ---
 
@@ -147,7 +139,6 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 
 <div align="center">
   
-  ⚡ **Contributions this year:** Check the worm graph at the top for my activity timeline!
   
 </div>
 
@@ -178,26 +169,10 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 
 ---
 
-## 💬 Let's Connect!
-
-<div align="center">
-  
-  <p style="font-size: 16px; color: #00d2ff;"><b>I'm always excited about:</b></p>
-  
-  - 🤝 Collaborating on impactful data projects
-  - 💡 Discussing statistical methods and engineering best practices  
-  - 🌱 Exploring actuarial data and risk modeling
-  - 🚀 Building scalable solutions to complex problems
-
-  <br />
-
-  <a href="https://www.linkedin.com/in/jess-christine-manuel">
-    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
   
   <br /><br />
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=30&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=50&section=footer" width="100%" />
   
   <br />
   
