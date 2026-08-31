@@ -69,8 +69,8 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=transparent&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-christine&layout=compact&theme=transparent&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=transparent&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jess-christine&layout=compact&theme=transparent&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400" width="48%" />
 </div>
 
 <div align="center">
@@ -79,7 +79,7 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 
 ---
 
-## 🎯 Current 2024 Goals
+## 🎯 Current 2026 Goals
 - ☁️ **Cloud Architecture**: Deepening expertise in Azure Data Factory and Synapse Analytics.
 - 🔄 **MLOps**: Implementing model versioning and tracking with MLflow.
 - 🌍 **Geospatial Insights**: Integrating advanced QGIS spatial data into data engineering workflows.
