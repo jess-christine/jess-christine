@@ -9,7 +9,7 @@
 
   <!-- Interactive Contribution Graph Section -->
   <details open>
-    <summary><b>🐛 My Contribution Journey (Click to expand)</b></summary>
+    <summary><b>🐛 My Contribution Journey (Click to collapse)</b></summary>
     <br />
     
   ![Jess's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&theme=github-dark&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true)
@@ -41,13 +41,14 @@
 <div align="center">
 
 <details open>
-  <summary><b>📈 Interactive Skill Proficiency Curve (Auto-Animating)</b></summary>
+  <summary><b>📈 Interactive Skill Proficiency Curve (Click Chart to Expand)</b></summary>
   
   <br />
   
-  ![Dynamic Normal Distribution](https://quickchart.io/chart?c={type:'line',data:{labels:['Beginner','Basic','Intermediate','Advanced','Expert'],datasets:[{label:'Current Proficiency',data:[15,35,65,92,85],borderColor:'%2300d2ff',backgroundColor:'rgba(0,210,255,0.1)',borderWidth:3,fill:true,tension:0.4,pointRadius:6,pointBackgroundColor:'%23ff0080',pointBorderColor:'%2300d2ff',pointBorderWidth:2},{label:'Target Distribution',data:[10,30,70,95,90],borderColor:'%23ff0080',borderDash:[5,5],backgroundColor:'rgba(255,0,128,0.05)',borderWidth:2,fill:false,tension:0.4,pointRadius:4,pointBackgroundColor:'%233a86ff',pointBorderColor:'%23ff0080'}]},options:{responsive:true,maintainAspectRatio:true,plugins:{legend:{display:true,labels:{color:'%23ffffff',font:{size:12}}},title:{display:true,text:'Skill Proficiency Normal Distribution',color:'%23ffffff'}},scales:{y:{beginAtZero:true,max:100,ticks:{color:'%23ffffff'},grid:{color:'rgba(58,134,255,0.1)'},title:{display:true,text:'Proficiency %',color:'%23ffffff'}},x:{ticks:{color:'%23ffffff'},grid:{color:'rgba(58,134,255,0.1)'},title:{display:true,text:'Skill Level',color:'%23ffffff'}}}})
-
-&w=900&h=500&bkg=0d1117)
+  <!-- The image is now wrapped in a link. Clicking it opens the full chart! -->
+  <a href="https://quickchart.io/chart?c={type:'line',data:{labels:['Beginner','Basic','Intermediate','Advanced','Expert'],datasets:[{label:'Current Proficiency',data:[15,35,65,92,85],borderColor:'%2300d2ff',backgroundColor:'rgba(0,210,255,0.1)',borderWidth:3,fill:true,tension:0.4,pointRadius:6,pointBackgroundColor:'%23ff0080',pointBorderColor:'%2300d2ff',pointBorderWidth:2},{label:'Target Distribution',data:[10,30,70,95,90],borderColor:'%23ff0080',borderDash:[5,5],backgroundColor:'rgba(255,0,128,0.05)',borderWidth:2,fill:false,tension:0.4,pointRadius:4,pointBackgroundColor:'%233a86ff',pointBorderColor:'%23ff0080'}]},options:{responsive:true,maintainAspectRatio:true,plugins:{legend:{display:true,labels:{color:'%23ffffff',font:{size:12}}},title:{display:true,text:'Skill Proficiency Normal Distribution',color:'%23ffffff'}},scales:{y:{beginAtZero:true,max:100,ticks:{color:'%23ffffff'},grid:{color:'rgba(58,134,255,0.1)'},title:{display:true,text:'Proficiency %',color:'%23ffffff'}},x:{ticks:{color:'%23ffffff'},grid:{color:'rgba(58,134,255,0.1)'},title:{display:true,text:'Skill Level',color:'%23ffffff'}}}}}&w=900&h=500&bkg=0d1117" target="_blank">
+    <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['Beginner','Basic','Intermediate','Advanced','Expert'],datasets:[{label:'Current Proficiency',data:[15,35,65,92,85],borderColor:'%2300d2ff',backgroundColor:'rgba(0,210,255,0.1)',borderWidth:3,fill:true,tension:0.4,pointRadius:6,pointBackgroundColor:'%23ff0080',pointBorderColor:'%2300d2ff',pointBorderWidth:2},{label:'Target Distribution',data:[10,30,70,95,90],borderColor:'%23ff0080',borderDash:[5,5],backgroundColor:'rgba(255,0,128,0.05)',borderWidth:2,fill:false,tension:0.4,pointRadius:4,pointBackgroundColor:'%233a86ff',pointBorderColor:'%23ff0080'}]},options:{responsive:true,maintainAspectRatio:true,plugins:{legend:{display:true,labels:{color:'%23ffffff',font:{size:12}}},title:{display:true,text:'Skill Proficiency Normal Distribution',color:'%23ffffff'}},scales:{y:{beginAtZero:true,max:100,ticks:{color:'%23ffffff'},grid:{color:'rgba(58,134,255,0.1)'},title:{display:true,text:'Proficiency %',color:'%23ffffff'}},x:{ticks:{color:'%23ffffff'},grid:{color:'rgba(58,134,255,0.1)'},title:{display:true,text:'Skill Level',color:'%23ffffff'}}}}}&w=900&h=500&bkg=0d1117" alt="Dynamic Normal Distribution" />
+  </a>
 
   <br />
   
@@ -88,12 +89,12 @@
 
 ## 🚀 Executive Summary
 
-I am a **Technical Data Professional** with a specialized degree in Statistics from the **Polytechnic University of the Philippines**. I bridge the gap between complex statistical theory and scalable engineering solutions, architecting data systems that drive measurable business impact.
+I am a **Technical Data Professional** with a specialized degree in Statistics from the **Polytechnic University of the Philippines**. I bridge the gap between complex statistical theory and scalable engineering solutions, architecting data systems that drive measurable business impact and fuel advanced machine learning research.
 
 ### 🎯 Core Value Proposition:
-- **Statistical Integrity**: Applying PUP-honed statistical rigor to data validation and ML modeling.
-- **Engineering Excellence**: Architecting Star-Schema models and ETL pipelines that scale.
-- **Tool Versatility**: Proficient in the "Modern Data Stack" (Databricks, Spark, SQL) and classic analytical tools.
+- **Statistical Integrity**: Applying formal statistical rigor to data validation, probability mapping, and ML modeling.
+- **Engineering Excellence**: Architecting Star-Schema models and ETL pipelines that scale flawlessly.
+- **Tool Versatility**: Proficient in the "Modern Data Stack" (Databricks, Spark, SQL) alongside classic statistical software (R, SPSS, EViews).
 
 ---
 
@@ -128,20 +129,20 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 
 </div>
 
-| 🎓 Project | 📊 Key Impact | 🔧 Tech Stack | ⭐ Repository Link |
+| 🎓 Project | 📊 Key Impact & Methods | 🔧 Tech Stack | ⭐ Repository Link |
 |:---|:---|:---|:---|
-| **Analyzing Students' Mental Health** | Evaluated impact of international study on depression, social connectedness, and acculturative stress via PostgreSQL analysis | Python, PostgreSQL, Jupyter Notebook, Statistics | [![View Repo](https://img.shields.io/badge/→_View_Code-00d2ff?style=flat-square&logo=github)](https://github.com/jess-christine/Analyzing-Students-Mental-Health) |
-| **Building Walmart Retail Data Pipeline** | End-to-end ETL pipeline processing e-commerce & retail data to evaluate macroeconomic & holiday sales trends | Python, Pandas, Parquet, PostgreSQL, Jupyter | [![View Repo](https://img.shields.io/badge/→_View_Code-ff0080?style=flat-square&logo=github)](https://github.com/jess-christine/Building-Walmart-Retail-Data-Pipeline) |
-| **Identifying Flight Duration Trends** | R/Tidyverse analysis of flight patterns and route frequencies from NYC airports (H2 2022) | R, Tidyverse, dplyr, Data Visualization | [![View Repo](https://img.shields.io/badge/→_View_Code-3a86ff?style=flat-square&logo=github)](https://github.com/jess-christine/Identifying-Flight-Duration-Trends-in-Air-Travel) |
+| **Energy Demand Forecasting Models** | Developed Grey Model (1,1) & Markov Chain Grey Models for petroleum energy demand forecasting. Presented at the BDCI International Conference in Fukuoka, Japan. | Python, Statistical Modeling, Time Series | [![View Repo](https://img.shields.io/badge/→_View_Code-00d2ff?style=flat-square&logo=github)](https://github.com/jess-christine) |
+| **Disaster Risk Clustering (Metro Manila)** | Leveraged Unsupervised Machine Learning algorithms to cluster and analyze disaster risk and preparedness levels across Greater Metro Manila. | R, Machine Learning, K-Means Clustering | [![View Repo](https://img.shields.io/badge/→_View_Code-ff0080?style=flat-square&logo=github)](https://github.com/jess-christine) |
+| **Retail & E-commerce Data Pipeline** | Engineered an end-to-end ETL pipeline processing high-volume retail data to evaluate macro-economic and seasonal sales trends. | Python, Pandas, Parquet, PostgreSQL | [![View Repo](https://img.shields.io/badge/→_View_Code-3a86ff?style=flat-square&logo=github)](https://github.com/jess-christine) |
 
 <br />
 
-<details open>
-  <summary><b>💡 Why These Projects Matter</b></summary>
+<details>
+  <summary><b>💡 Why These Projects Matter (Click to expand)</b></summary>
   
-  - **Mental Health Analysis**: Demonstrates statistical rigor in real-world social science data
-  - **Walmart Pipeline**: Showcases full ETL lifecycle from raw data to actionable insights
-  - **Flight Trends**: Highlights advanced data manipulation and visualization expertise
+  - **Energy Demand Forecasting**: Demonstrates ability to handle complex, high-stakes time-series data and communicate findings on an international stage.
+  - **Disaster Risk Clustering**: Showcases the direct application of machine learning to solve critical, real-world logistical and safety challenges.
+  - **Retail Pipeline**: Highlights full ETL lifecycle mastery, taking raw, messy data and structuring it for immediate business intelligence consumption.
   
 </details>
 
@@ -151,9 +152,9 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=github_dark&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=github_dark&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jess-christine&layout=compact&theme=github_dark&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jess-christine&layout=compact&theme=github_dark&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
@@ -169,7 +170,7 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 
 <div align="center">
   
-  ⚡ **Contributions this year:** Check the worm graph above for my activity timeline!
+  ⚡ **Contributions this year:** Check the worm graph at the top for my activity timeline!
   
 </div>
 
@@ -192,8 +193,8 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
       <small>Advanced QGIS integration</small>
     </td>
     <td align="center" width="25%">
-      <b>📚 Continuous Learning</b><br/>
-      <small>Modern data stack mastery</small>
+      <b>📊 Actuarial Science</b><br/>
+      <small>Probability & Risk Management</small>
     </td>
   </tr>
 </table>
@@ -208,7 +209,7 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
   
   - 🤝 Collaborating on impactful data projects
   - 💡 Discussing statistical methods and engineering best practices  
-  - 🌱 Mentoring aspiring data professionals
+  - 🌱 Exploring actuarial data and risk modeling
   - 🚀 Building scalable solutions to complex problems
 
   <br />
@@ -232,5 +233,5 @@ I am a **Technical Data Professional** with a specialized degree in Statistics f
 ---
 
 <div align="center">
-  <em>Made with 💙 by Jess Christine • Last updated: August 31, 2026</em>
+  <em>Made with 💙 by Jess Christine • Last updated: August 2026</em>
 </div>
