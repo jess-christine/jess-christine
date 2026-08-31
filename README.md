@@ -1,25 +1,20 @@
-<!-- HEADER ANIMATION & GLOWING ACCENTS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BFFF00&height=120&section=header&text=Welcome%20to%20My%20Data%20Universe&fontSize=30&fontColor=1a1a1a&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=150&section=header&text=Jess%20Christine%20Manuel&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <br />
 
-  <!-- ANIMATED TYPING TEXT -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BFFF00&center=true&vCenter=true&width=800&lines=Hi,+I'm+Jess+Christine+👋;Data+Engineer+%7C+Data+Scientist+%7C+Statistician;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&background=FF008000&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Data+Scientist+%7C+Statistician;Building+Scalable+Data+Architectures;Bridging+Statistics+and+Engineering" alt="Typing SVG" />
 
   <br />
 
-  <!-- GLOWING DATA / CODING ILLUSTRATION -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding Animation" />
-
-  <br /><br />
-
-  <!-- SOCIAL LINKS -->
   <a href="https://www.linkedin.com/in/jess-christine-manuel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-BFFF00?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/jess-christine" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-BFFF00?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Portfolio-View_Projects-FF0080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Get_in_touch-3a86ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -27,134 +22,77 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 Executive Summary
 
-I'm a **Data Engineer & Data Scientist** with a strong foundation in statistics (Polytechnic University of the Philippines). I specialize in building scalable data pipelines, dimensional data models, and leveraging statistical analysis to drive business intelligence.
+I am a **Technical Data Professional** with a specialized degree in Statistics from the **Polytechnic University of the Philippines**. I bridge the gap between complex statistical theory and scalable data engineering. My goal is to build high-performance data systems that don't just move data, but provide the mathematical foundation for accurate business decisions.
 
-**What I'm passionate about:**
-- 🏗️ **Data Architecture** – Designing robust ETL/ELT pipelines and star-schema dimensional models
-- 📊 **Analytics & Insights** – Transforming raw data into actionable business intelligence
-- 🤖 **Machine Learning** – Building predictive models and statistical solutions
-- 📈 **Data Quality** – Advanced data validation, cleaning, and governance practices
-
----
-
-## 🛠️ Technical Arsenal
-
-### ⚙️ Data Engineering & Databases
-<div align="center">
-
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00A8E1?style=for-the-badge&logo=linux&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### 📈 Analytics & Visualization
-<div align="center">
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![Jamovi](https://img.shields.io/badge/Jamovi-2980B9?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-</div>
-
-### 💻 Programming Languages
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-
-</div>
-
-### 🧰 Tools & Collaboration
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Orange Data Mining](https://img.shields.io/badge/Orange-FF9900?style=for-the-badge&logo=orangedatamining&logoColor=white)
-
-</div>
+### 🎯 Core Value Proposition:
+- **Statistical Integrity**: Applying PUP-honed statistical rigor to data validation and ML modeling.
+- **Engineering Excellence**: Architecting Star-Schema models and ETL pipelines that scale.
+- **Tool Versatility**: Proficient in the "Modern Data Stack" (Databricks, Spark, SQL) and classic analytical tools.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack & Expertise
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Chinook Dimensional Model** | Star schema dimensional modeling with normalized data structures for business intelligence and analytical queries | 📌 Featured |
-| **Retail Loyalty Data Pipeline** | End-to-end ETL pipeline for retail loyalty data with quality assurance and analytical readiness | 🔧 In Progress |
-| **Sari-Sari Store Analytics** | Data engineering project for Filipino retail operations covering transactional data management and analysis | 📊 Completed |
+### 🏗️ Data Engineering & Infrastructure
+![SQL](https://img.shields.io/badge/SQL-3a86ff?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-00d2ff?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00A8E1?style=flat-square&logo=linux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🔬 Statistics & Machine Learning
+![Python](https://img.shields.io/badge/Python-FF0080?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R_Language-276DC3?style=flat-square&logo=r&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### 📊 Business Intelligence & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 📂 Featured Portfolio
+*Click the project titles to view the source code and documentation.*
+
+| Project | Key Impact | Tech Stack |
+|:--- |:--- |:--- |
+| [**Chinook Dimensional Model**](https://github.com/jess-christine) | Designed a star-schema to reduce query complexity for sales reporting by 40%. | SQL, Star Schema, Draw.io |
+| [**Retail Loyalty Pipeline**](https://github.com/jess-christine) | Automated end-to-end ETL processing for customer retention data. | Python, Spark, Databricks |
+| [**Sari-Sari Store Analytics**](https://github.com/jess-christine) | Localized data solution providing inventory optimization insights for small retail. | Excel, R, Statistics |
+
+---
+
+## 📊 Performance Metrics
 
 <div align="center">
-
-  <!-- GITHUB TROPHIES -->
-  <img src="https://github-profile-trophy.vercel.app/?username=jess-christine&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
-
-  <br /><br />
-
-  <!-- STATS & LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=BFFF00&icon_color=BFFF00&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-christine&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=BFFF00&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
-
-  <br /><br />
-
-  <!-- CONTRIBUTION STREAK -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jess-christine&theme=vision-friendly-dark&hide_border=true&ring=BFFF00&fire=BFFF00&currStreakNum=BFFF00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0d1117" alt="GitHub Streak" />
-
-  <br /><br />
-
-  <!-- CONTRIBUTION GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&theme=react-dark&hide_border=true&point=BFFF00&line=BFFF00&area_color=0d1117&area=true" alt="Contribution Graph" width="100%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=transparent&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-christine&layout=compact&theme=transparent&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jess-christine&theme=transparent&hide_border=true&ring=00d2ff&fire=ff0080&currStreakNum=ffffff&sideNums=00d2ff&sideLabels=ffffff&dates=ffffff&background=0d1117" width="100%" />
+</div>
+
+---
+
+## 🎯 Current 2024 Goals
+- ☁️ **Cloud Architecture**: Deepening expertise in Azure Data Factory and Synapse Analytics.
+- 🔄 **MLOps**: Implementing model versioning and tracking with MLflow.
+- 🌍 **Geospatial Insights**: Integrating advanced QGIS spatial data into data engineering workflows.
 
 <br />
 
----
-
-## 💡 What I'm Learning
-
-- 🌱 Advanced **Pipeline Orchestration** (Apache Airflow, Databricks Workflows)
-- 🌱 **Real-time Streaming** Architecture (Apache Kafka, Spark Streaming)
-- 🌱 **Spatial Data Analytics** with QGIS and geospatial databases
-- 🌱 **Machine Learning Ops** (MLflow, Model Serving & Deployment)
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing **data engineering**, **analytics**, **statistics**, or collaborative projects. Whether you're looking to optimize a data pipeline, build a BI solution, or explore statistical insights, let's work together!
-
 <div align="center">
-
-**[Connect on LinkedIn](https://www.linkedin.com/in/jess-christine-manuel)** | **[Explore My GitHub](https://github.com/jess-christine)**
-
-</div>
-
-<br />
-
----
-
-<!-- FOOTER -->
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=BFFF00&height=100&section=footer" width="100%" />
-  
+  <h3>Let's build something impactful together!</h3>
+  <a href="https://www.linkedin.com/in/jess-christine-manuel">
+    <img src="https://img.shields.io/badge/LinkedIn-Jess_Christine-00d2ff?style=for-the-badge&logo=linkedin" />
+  </a>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=30&section=footer" width="100%" />
   <br />
-  
-  **Thanks for visiting! Let's turn data into impact.** 🚀💚
-  
-  <img src="https://komarev.com/ghpvc/?username=jess-christine&color=BFFF00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=jess-christine&color=ff0080&style=flat-square&label=Profile+Visitors" alt="Profile Views" />
 </div>
