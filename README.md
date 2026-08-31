@@ -9,14 +9,12 @@
   <br />
 
   <!-- Interactive Contribution Graph Section -->
-  <details open>
-    <summary><b>🐛 My Contribution Journey (Click to collapse)</b></summary>
-    <br />
-    
-    <!-- Changed to HTML img tag to prevent Markdown parser breaking -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&theme=github-dark&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true&cache_seconds=86400" alt="GitHub Contribution Graph" width="100%" />
-    
-  </details>
+<!-- Interactive Contribution Graph Section -->
+<details open>
+<summary><b>🐛 My Contribution Journey (Click to collapse)</b></summary>
+<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&theme=github-dark&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true&cache_seconds=86400" alt="GitHub Contribution Graph" width="100%" />
+</details>
 
   <br />
 
@@ -38,77 +36,31 @@
 
 <hr />
 
-## 📊 Skill Proficiency Distribution - Dynamic Normal Distribution
+## 📊 Statistical Proficiency
 
 <div align="center">
-
-<details open>
-  <summary><b>📈 Interactive Skill Proficiency Curve (Click Chart to Expand)</b></summary>
+  <p style="color: #00d2ff; font-family: monospace;">> Loading proficiency_distribution.model...</p>
   
-  <br />
-  
-  <!-- Fully URL-Encoded QuickChart string embedded safely in HTML tags -->
-  <a href="https://quickchart.io/chart?c=%7Btype%3A%27line%27%2Cdata%3A%7Blabels%3A%5B%27Beginner%27%2C%27Basic%27%2C%27Intermediate%27%2C%27Advanced%27%2C%27Expert%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Current%20Proficiency%27%2Cdata%3A%5B15%2C35%2C65%2C92%2C85%5D%2CborderColor%3A%27%2300d2ff%27%2CbackgroundColor%3A%27rgba%280%2C210%2C255%2C0.1%29%27%2CborderWidth%3A3%2Cfill%3Atrue%2Ctension%3A0.4%2CpointRadius%3A6%2CpointBackgroundColor%3A%27%23ff0080%27%2CpointBorderColor%3A%27%2300d2ff%27%2CpointBorderWidth%3A2%7D%2C%7Blabel%3A%27Target%20Distribution%27%2Cdata%3A%5B10%2C30%2C70%2C95%2C90%5D%2CborderColor%3A%27%23ff0080%27%2CborderDash%3A%5B5%2C5%5D%2CbackgroundColor%3A%27rgba%28255%2C0%2C128%2C0.05%29%27%2CborderWidth%3A2%2Cfill%3Afalse%2Ctension%3A0.4%2CpointRadius%3A4%2CpointBackgroundColor%3A%27%233a86ff%27%2CpointBorderColor%3A%27%23ff0080%27%7D%5D%7D%2Coptions%3A%7Bresponsive%3Atrue%2CmaintainAspectRatio%3Atrue%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Atrue%2Clabels%3A%7Bcolor%3A%27%23ffffff%27%2Cfont%3A%7Bsize%3A12%7D%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Skill%20Proficiency%20Normal%20Distribution%27%2Ccolor%3A%27%23ffffff%27%7D%7D%2Cscales%3A%7By%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%2Cticks%3A%7Bcolor%3A%27%23ffffff%27%7D%2Cgrid%3A%7Bcolor%3A%27rgba%2858%2C134%2C255%2C0.1%29%27%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Proficiency%20%25%27%2Ccolor%3A%27%23ffffff%27%7D%7D%2Cx%3A%7Bticks%3A%7Bcolor%3A%27%23ffffff%27%7D%2Cgrid%3A%7Bcolor%3A%27rgba%2858%2C134%2C255%2C0.1%29%27%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Skill%20Level%27%2Ccolor%3A%27%23ffffff%27%7D%7D%7D%7D&w=900&h=500&bkg=0d1117" target="_blank">
-    <img src="https://quickchart.io/chart?c=%7Btype%3A%27line%27%2Cdata%3A%7Blabels%3A%5B%27Beginner%27%2C%27Basic%27%2C%27Intermediate%27%2C%27Advanced%27%2C%27Expert%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Current%20Proficiency%27%2Cdata%3A%5B15%2C35%2C65%2C92%2C85%5D%2CborderColor%3A%27%2300d2ff%27%2CbackgroundColor%3A%27rgba%280%2C210%2C255%2C0.1%29%27%2CborderWidth%3A3%2Cfill%3Atrue%2Ctension%3A0.4%2CpointRadius%3A6%2CpointBackgroundColor%3A%27%23ff0080%27%2CpointBorderColor%3A%27%2300d2ff%27%2CpointBorderWidth%3A2%7D%2C%7Blabel%3A%27Target%20Distribution%27%2Cdata%3A%5B10%2C30%2C70%2C95%2C90%5D%2CborderColor%3A%27%23ff0080%27%2CborderDash%3A%5B5%2C5%5D%2CbackgroundColor%3A%27rgba%28255%2C0%2C128%2C0.05%29%27%2CborderWidth%3A2%2Cfill%3Afalse%2Ctension%3A0.4%2CpointRadius%3A4%2CpointBackgroundColor%3A%27%233a86ff%27%2CpointBorderColor%3A%27%23ff0080%27%7D%5D%7D%2Coptions%3A%7Bresponsive%3Atrue%2CmaintainAspectRatio%3Atrue%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Atrue%2Clabels%3A%7Bcolor%3A%27%23ffffff%27%2Cfont%3A%7Bsize%3A12%7D%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Skill%20Proficiency%20Normal%20Distribution%27%2Ccolor%3A%27%23ffffff%27%7D%7D%2Cscales%3A%7By%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%2Cticks%3A%7Bcolor%3A%27%23ffffff%27%7D%2Cgrid%3A%7Bcolor%3A%27rgba%2858%2C134%2C255%2C0.1%29%27%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Proficiency%20%25%27%2Ccolor%3A%27%23ffffff%27%7D%7D%2Cx%3A%7Bticks%3A%7Bcolor%3A%27%23ffffff%27%7D%2Cgrid%3A%7Bcolor%3A%27rgba%2858%2C134%2C255%2C0.1%29%27%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Skill%20Level%27%2Ccolor%3A%27%23ffffff%27%7D%7D%7D%7D&w=900&h=500&bkg=0d1117" alt="Dynamic Normal Distribution" />
-  </a>
-
-  <br />
-  
-  **📊 Real-time Metrics:**
-  - **Current Mean:** 78.4 | **Target Mean:** 80.0
-  - **Kurtosis:** 2.3 (Leptokurtic - peaked distribution)
-  - **Skewness:** -0.15 (Slightly left-skewed toward expertise)
-  
-</details>
-
-## 📊 Skill Proficiency Distribution - Dynamic Normal Distribution
-
-<div align="center">
-
-<details open>
-  <summary><b>📈 Interactive Skill Proficiency Curve (Click Chart to Expand)</b></summary>
-  
-  <br />
-  
-  <!-- The image is now wrapped in a link. Clicking it opens the full chart! -->
-  <a href="https://quickchart.io/chart?c={type:'line',data:{labels:['Beginner','Basic','Intermediate','Advanced','Expert'],datasets:[{label:'Current Proficiency',data:[15,35,65,92,85],borderColor:'%2300d2ff',backgroundColor:'rgba(0,210,255,0.1)',borderWidth:3,fill:true,tension:0.4,pointRadius:6,pointBackgroundColor:'%23ff0080',pointBorderColor:'%2300d2ff',pointBorderWidth:2},{label:'Target Distribution',data:[10,30,70,95,90],borderColor:'%23ff0080',borderDash:[5,5],backgroundColor:'rgba(255,0,128,0.05)',borderWidth:2,fill:false,tension:0.4,pointRadius:4,pointBackgroundColor:'%233a86ff',pointBorderColor:'%23ff0080'}]},options:{responsive:true,maintainAspectRatio:true,plugins:{legend:{display:true,labels:{color:'%23ffffff',font:{size:12}}},title:{display:true,text:'Skill Proficiency Normal Distribution',color:'%23ffffff'}},scales:{y:{beginAtZero:true,max:100,ticks:{color:'%23ffffff'},grid:{color:'rgba(58,134,255,0.1)'},title:{display:true,text:'Proficiency %',color:'%23ffffff'}},x:{ticks:{color:'%23ffffff'},grid:{color:'rgba(58,134,255,0.1)'},title:{display:true,text:'Skill Level',color:'%23ffffff'}}}}}&w=900&h=500&bkg=0d1117" target="_blank">
-    <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['Beginner','Basic','Intermediate','Advanced','Expert'],datasets:[{label:'Current Proficiency',data:[15,35,65,92,85],borderColor:'%2300d2ff',backgroundColor:'rgba(0,210,255,0.1)',borderWidth:3,fill:true,tension:0.4,pointRadius:6,pointBackgroundColor:'%23ff0080',pointBorderColor:'%2300d2ff',pointBorderWidth:2},{label:'Target Distribution',data:[10,30,70,95,90],borderColor:'%23ff0080',borderDash:[5,5],backgroundColor:'rgba(255,0,128,0.05)',borderWidth:2,fill:false,tension:0.4,pointRadius:4,pointBackgroundColor:'%233a86ff',pointBorderColor:'%23ff0080'}]},options:{responsive:true,maintainAspectRatio:true,plugins:{legend:{display:true,labels:{color:'%23ffffff',font:{size:12}}},title:{display:true,text:'Skill Proficiency Normal Distribution',color:'%23ffffff'}},scales:{y:{beginAtZero:true,max:100,ticks:{color:'%23ffffff'},grid:{color:'rgba(58,134,255,0.1)'},title:{display:true,text:'Proficiency %',color:'%23ffffff'}},x:{ticks:{color:'%23ffffff'},grid:{color:'rgba(58,134,255,0.1)'},title:{display:true,text:'Skill Level',color:'%23ffffff'}}}}}&w=900&h=500&bkg=0d1117" alt="Dynamic Normal Distribution" />
-  </a>
-
-  <br />
-  
-  **📊 Real-time Metrics:**
-  - **Current Mean:** 78.4 | **Target Mean:** 80.0
-  - **Kurtosis:** 2.3 (Leptokurtic - peaked distribution)
-  - **Skewness:** -0.15 (Slightly left-skewed toward expertise)
-  
-</details>
+  <!-- Using a relative path. The GIF must be in the same repo as this README! -->
+  <img src="morphing_with_bars.gif" alt="Morphing Skew Normal Distribution" width="800" />
+</div>
 
 <br />
 
 <details>
-  <summary><b>🎯 Detailed Proficiency Breakdown (Click to expand)</b></summary>
+<summary><b>🎯 Detailed Proficiency Breakdown (Click to expand)</b></summary>
   
-  | Skill Category | Proficiency | Distribution | Key Strengths |
-  |:---|:---:|:---:|:---|
-  | **Python & SQL** | ⭐⭐⭐⭐⭐ 95% | ████████████████ Expert | Data pipelines, Query optimization, ETL design |
-  | **Data Engineering** | ⭐⭐⭐⭐⭐ 92% | ███████████████ Expert | Spark, Databricks, star-schema architecture |
-  | **Statistical Analysis** | ⭐⭐⭐⭐⭐ 90% | ██████████████ Expert | Hypothesis testing, regression, distribution analysis |
-  | **R & Tidyverse** | ⭐⭐⭐⭐ 85% | █████████████ Advanced | Data wrangling, visualization, dplyr mastery |
-  | **Business Intelligence** | ⭐⭐⭐⭐ 85% | █████████████ Advanced | Tableau, Power BI, dashboard design |
-  | **Machine Learning** | ⭐⭐⭐⭐ 80% | ████████████ Advanced | Scikit-learn, model validation, feature engineering |
-  | **PostgreSQL & MySQL** | ⭐⭐⭐⭐⭐ 88% | ██████████████ Expert | Complex queries, indexing, performance tuning |
-  
-  **Distribution Shape Analysis:**
-  - Most skills cluster in the 85-95% range (right tail - expertise focused)
-  - The distribution shows **positive kurtosis** (peaked around expert level)
-  - **Negative skewness** indicates bias toward higher proficiency
+| Skill Category | Proficiency | Distribution | Key Strengths |
+|:---|:---:|:---:|:---|
+| **Python & SQL** | ⭐⭐⭐⭐⭐ 95% | ████████████████ Expert | Data pipelines, Query optimization, ETL design |
+| **Data Engineering** | ⭐⭐⭐⭐⭐ 92% | ███████████████ Expert | Spark, Databricks, star-schema architecture |
+| **Statistical Analysis** | ⭐⭐⭐⭐⭐ 90% | ██████████████ Expert | Hypothesis testing, regression, distribution analysis |
+| **R & Tidyverse** | ⭐⭐⭐⭐ 85% | █████████████ Advanced | Data wrangling, visualization, dplyr mastery |
+| **Business Intelligence** | ⭐⭐⭐⭐ 85% | █████████████ Advanced | Tableau, Power BI, dashboard design |
+| **Machine Learning** | ⭐⭐⭐⭐ 80% | ████████████ Advanced | Scikit-learn, model validation, feature engineering |
+| **PostgreSQL & MySQL** | ⭐⭐⭐⭐⭐ 88% | ██████████████ Expert | Complex queries, indexing, performance tuning |
   
 </details>
-
-</div>
-
-<br />
 
 ---
 
