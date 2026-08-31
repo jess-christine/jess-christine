@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=200&section=header&text=Jess%20Christine%20&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=200&section=header&text=Jess%20Christine%20&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Scientist%20%7C%20Statistician&descAlignY=55&descAlign=50" alt="Header" />
+
 
   <br />
 
