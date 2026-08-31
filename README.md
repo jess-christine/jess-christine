@@ -36,13 +36,13 @@
 
 <hr />
 
-## 📊 Statistical Proficiency
+
 
 <div align="center">
   <p style="color: #00d2ff; font-family: monospace;">> Loading proficiency_distribution.model...</p>
   
   <!-- Using a relative path. The GIF must be in the same repo as this README! -->
-  <img src="morphing_with_bars.gif" alt="Morphing Skew Normal Distribution" width="800" />
+  <img src="assets/morphing_with_bars.gif" alt="Morphing Skew Normal Distribution" width="800" />
 </div>
 
 <br />
