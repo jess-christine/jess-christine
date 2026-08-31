@@ -36,62 +36,50 @@
 
 ---
 
-## 📊 Interactive Normal Distribution Analysis
+## 📊 Skill Proficiency Distribution
 
 <div align="center">
-  
-  <!-- Embedded Interactive Plot via HTML/SVG -->
-  <svg viewBox="0 0 800 400" width="100%" height="auto" style="max-width:800px; border: 2px solid #00d2ff; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 20px;">
-    <!-- Title -->
-    <text x="400" y="30" font-size="24" font-weight="bold" fill="#00d2ff" text-anchor="middle">
-      My Skill Distribution (Normal Distribution)
-    </text>
-    
-    <!-- Grid lines -->
-    <line x1="100" y1="350" x2="750" y2="350" stroke="#3a86ff" stroke-width="2" opacity="0.5"/>
-    <line x1="100" y1="50" x2="100" y2="350" stroke="#3a86ff" stroke-width="2" opacity="0.5"/>
-    
-    <!-- Axis labels -->
-    <text x="775" y="355" font-size="12" fill="#00d2ff">Skill</text>
-    <text x="95" y="35" font-size="12" fill="#00d2ff">Proficiency</text>
-    
-    <!-- Normal Distribution Curve (Bell Curve) -->
-    <path d="M 120 300 Q 140 280 160 255 Q 180 220 200 180 Q 220 140 240 100 Q 260 70 280 50 Q 300 40 320 35 Q 340 32 360 30 Q 380 29 400 28 Q 420 29 440 30 Q 460 32 480 35 Q 500 40 520 50 Q 540 70 560 100 Q 580 140 600 180 Q 620 220 640 255 Q 660 280 680 300 Q 700 315 720 330" 
-          fill="none" stroke="#ff0080" stroke-width="3" opacity="0.8"/>
-    
-    <!-- Fill area under curve -->
-    <path d="M 120 300 Q 140 280 160 255 Q 180 220 200 180 Q 220 140 240 100 Q 260 70 280 50 Q 300 40 320 35 Q 340 32 360 30 Q 380 29 400 28 Q 420 29 440 30 Q 460 32 480 35 Q 500 40 520 50 Q 540 70 560 100 Q 580 140 600 180 Q 620 220 640 255 Q 660 280 680 300 Q 700 315 720 330 L 720 350 L 120 350 Z" 
-          fill="url(#gradientFill)" opacity="0.3"/>
-    
-    <!-- Gradient definition -->
-    <defs>
-      <linearGradient id="gradientFill" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" style="stop-color:#ff0080;stop-opacity:0.6" />
-        <stop offset="100%" style="stop-color:#00d2ff;stop-opacity:0.2" />
-      </linearGradient>
-    </defs>
-    
-    <!-- Standard deviation markers -->
-    <line x1="280" y1="50" x2="280" y2="360" stroke="#3a86ff" stroke-width="1" stroke-dasharray="5,5" opacity="0.5"/>
-    <line x1="520" y1="50" x2="520" y2="360" stroke="#3a86ff" stroke-width="1" stroke-dasharray="5,5" opacity="0.5"/>
-    <text x="280" y="375" font-size="11" fill="#00d2ff" text-anchor="middle">-1σ</text>
-    <text x="400" y="375" font-size="11" fill="#00d2ff" text-anchor="middle">Mean</text>
-    <text x="520" y="375" font-size="11" fill="#00d2ff" text-anchor="middle">+1σ</text>
-    
-    <!-- Data points (skill areas) -->
-    <circle cx="340" cy="110" r="4" fill="#00d2ff" opacity="0.8"/>
-    <circle cx="360" cy="70" r="4" fill="#ff0080" opacity="0.8"/>
-    <circle cx="400" cy="40" r="4" fill="#00d2ff" opacity="0.8"/>
-    <circle cx="440" cy="70" r="4" fill="#ff0080" opacity="0.8"/>
-    <circle cx="460" cy="110" r="4" fill="#00d2ff" opacity="0.8"/>
-    
-    <!-- Legend -->
-    <text x="120" y="390" font-size="12" fill="#ffffff">SQL & Python at peak | Data Engineering excellence | Statistical rigor</text>
-  </svg>
 
-  <br />
-  <em style="color: #00d2ff; font-size: 12px;">📈 Most skills cluster around advanced proficiency — I love depth!</em>
+```
+        📈 SKILL PROFICIENCY CURVE (Normal Distribution)
+        
+        Proficiency
+        100%  │                    ╱╲
+        90%   │                  ╱    ╲
+        80%   │                ╱        ╲
+        70%   │              ╱            ╲
+        60%   │            ╱                ╲
+        50%   │          ╱                    ╲
+        40%   │        ╱                        ╲
+        30%   │      ╱  ●                    ●    ╲
+        20%   │    ╱        ●   ●   ●            ╲
+        10%   │  ╱              │   │                ╲
+         0%   └──────────────────┼───┼──────────────────
+              Beginner    -1σ   Mean  +1σ    Advanced
+              
+        ● SQL & Python @ Peak (95%)
+        ● Data Engineering Excellence
+        ● Statistical Rigor throughout distribution
+        
+        Key Insight: Most skills cluster around advanced proficiency!
+```
+
 </div>
+
+<details>
+  <summary><b>📈 Interactive Proficiency Breakdown (Click to expand)</b></summary>
+  
+  | Skill Category | Proficiency | Key Strengths |
+  |:---|:---:|:---|
+  | **Python & SQL** | ⭐⭐⭐⭐⭐ 95% | Data pipelines, Query optimization, ETL design |
+  | **Data Engineering** | ⭐⭐⭐⭐⭐ 92% | Spark, Databricks, star-schema architecture |
+  | **Statistical Analysis** | ⭐⭐⭐⭐⭐ 90% | Hypothesis testing, regression, distribution analysis |
+  | **R & Tidyverse** | ⭐⭐⭐⭐ 85% | Data wrangling, visualization, dplyr mastery |
+  | **Business Intelligence** | ⭐⭐⭐⭐ 85% | Tableau, Power BI, dashboard design |
+  | **Machine Learning** | ⭐⭐⭐⭐ 80% | Scikit-learn, model validation, feature engineering |
+  | **PostgreSQL & MySQL** | ⭐⭐⭐⭐⭐ 88% | Complex queries, indexing, performance tuning |
+  
+</details>
 
 <br />
 
