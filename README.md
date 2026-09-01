@@ -41,12 +41,6 @@
   </details>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jess-christine/jess-christine/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-  <img src="https://raw.githubusercontent.com/jess-christine/jess-christine/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" />
-</div>
-
-<br />
 <hr />
 
 <a id="executive-summary"></a>
@@ -114,7 +108,7 @@ I am a **Data Professional** with an undergraduate degree in **Statistics** from
 <br />
 
 <details>
-<summary><b>📈 GitHub Analytics (click to expand)</b></summary>
+<summary><b>📈 GitHub Analytics </b></summary>
 <br />
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=jess-christine&show_icons=true&theme=github_dark&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
@@ -143,7 +137,6 @@ I am a **Data Professional** with an undergraduate degree in **Statistics** from
 | **JASP & Jamovi** | `████████████████░░░░` 85% | Advanced | Bayesian & frequentist testing, effect sizes, ANOVA workflows |
 | **Business Intelligence** | `████████████████░░░░` 85% | Advanced | Tableau, Power BI, KPI dashboard design |
 | **Machine Learning** | `███████████████░░░░░` 80% | Advanced | Scikit-learn, feature engineering, cross-validation |
-| **Geospatial & Scientific Tooling** | `█████████████░░░░░░░` 75% | Proficient | QGIS spatial analysis, Spyder-based scientific Python workflows |
 
 </details>
 
@@ -189,5 +182,5 @@ I am a **Data Professional** with an undergraduate degree in **Statistics** from
 <br />
 
 <div align="center">
-  <em>Made with 💙 by Jess Christine · Last updated: September 2026</em>
+  <em> Last updated: September 2026</em>
 </div>
