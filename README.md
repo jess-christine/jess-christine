@@ -4,7 +4,9 @@
   <br />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&lines=📊+Data+Engineer+%7C+🔬+Data+Scientist;🎯+Statistical+Analyst+%7C+📈+ML+Practitioner" />
-
+<div align="center">
+  <!-- Add additional stats widgets here if desired -->
+  
 
   <div>
     <a href="https://www.linkedin.com/in/jess-christine-manuel" target="_blank">
@@ -180,7 +182,9 @@ I am a **Data Professional** with an undergraduate degree in **Statistics** from
 </div>
 
 <br />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jess-christine&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jess-christine&theme=github_dark" alt="Stats Card" />
+</div>
 <div align="center">
   <em> Last updated: September 2026</em>
 </div>
