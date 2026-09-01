@@ -1,29 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=200&section=header&text=Jess%20Christine%20&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Scientist%20%7C%20Statistician&descAlignY=55&descAlign=50" alt="Header" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=200&section=header&text=Jess%20Christine&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Scientist%20%7C%20Statistician&descAlignY=55&descAlign=50" alt="Header" />
 
   <br />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&lines=📊+Data+Engineer+%7C+🔬+Data+Scientist;🎯+Statistical+Analyst+%7C+📈+ML+Practitioner" />
 
-  <br />
-
-<details open>
-<summary><b>🐛 My Contribution Journey (Click to collapse)</b></summary>
-<br />
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&theme=github-dark&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true&v=1" alt="Contribution Graph" />
-</div>
-</details>
-
-  <br />
+  <p><b>📍 Polytechnic University of the Philippines · Statistics</b></p>
 
   <div>
     <a href="https://www.linkedin.com/in/jess-christine-manuel" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/jess-christine" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-View_Projects-FF0080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Portfolio-FF0080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
     </a>
     <a href="mailto:your-email@example.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-Get_in_touch-3a86ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -33,141 +22,174 @@
 
 <br />
 
+<p align="center">
+  <a href="#executive-summary">Executive Summary</a> •
+  <a href="#technical-skill-matrix">Skill Matrix</a> •
+  <a href="#featured-portfolio">Portfolio</a> •
+  <a href="#detailed-proficiency">Proficiency</a> •
+  <a href="#future-roadmap">Roadmap</a> •
+  <a href="#connect">Contact</a>
+</p>
+
 <hr />
 
 <div align="center">
-  <p style="color: #00d2ff; font-family: monospace;">> Loading proficiency_distribution.model...</p>
-  
-  <img src="assets/morphing_with_bars.gif" alt="Morphing Skew Normal Distribution" width="800" />
+  <details open>
+    <summary><b>🐍 Contribution Graph — Watch the Worm Eat My Commits (click to collapse)</b></summary>
+    <br />
+    <img src="https://raw.githubusercontent.com/jess-christine/jess-christine/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution worm animation — a snake crawling across the contribution grid eating commits" />
+    <p><sub>The worm crawls across the real contribution grid and devours every square I've committed.</sub></p>
+  </details>
+</div>
+
+<div align="center">
+  <details>
+    <summary><b>📈 Annual Contribution Activity Graph (click to expand)</b></summary>
+    <br />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  </details>
 </div>
 
 <br />
+<hr />
 
-<details>
-<summary><b>🎯 Detailed Proficiency Breakdown (Click to expand)</b></summary>
-  
-| Skill Category | Proficiency | Distribution | Key Strengths |
-|:---|:---:|:---:|:---|
-| **Python & SQL** | ⭐⭐⭐⭐⭐ 95% | ████████████████ Expert | Data pipelines, Query optimization, ETL design |
-| **Data Engineering** | ⭐⭐⭐⭐⭐ 92% | ███████████████ Expert | Spark, Databricks, star-schema architecture |
-| **Statistical Analysis** | ⭐⭐⭐⭐⭐ 90% | ██████████████ Expert | Hypothesis testing, regression, distribution analysis |
-| **R & Tidyverse** | ⭐⭐⭐⭐ 85% | █████████████ Advanced | Data wrangling, visualization, dplyr mastery |
-| **Business Intelligence** | ⭐⭐⭐⭐ 85% | █████████████ Advanced | Tableau, Power BI, dashboard design |
-| **Machine Learning** | ⭐⭐⭐⭐ 80% | ████████████ Advanced | Scikit-learn, model validation, feature engineering |
-| **PostgreSQL & MySQL** | ⭐⭐⭐⭐⭐ 88% | ██████████████ Expert | Complex queries, indexing, performance tuning |
-  
-</details>
-
----
-
+<a id="executive-summary"></a>
 ## 🚀 Executive Summary
 
-I am a **Technical Data Professional** with a specialized degree in Statistics from the **Polytechnic University of the Philippines**. I bridge the gap between complex statistical theory and scalable data engineering solutions. My expertise spans the modern data stack (Databricks, Apache Spark, SQL) combined with rigorous statistical methodologies and business intelligence visualization.
+I am a **Data Professional** with an undergraduate degree in **Statistics** from the **Polytechnic University of the Philippines**. I bridge rigorous statistical theory and scalable data engineering: every pipeline I design treats data quality as an experiment, every transformation as a hypothesis, and every model as something that must be validated with evidence.
 
-### 🎯 Core Value Proposition:
-- **Statistical Integrity**: Applying formal statistical rigor to data validation, probability mapping, and ML modeling.
-- **Engineering Excellence**: Architecting Star-Schema models and ETL pipelines that scale flawlessly.
-- **Tool Versatility**: Proficient in the "Modern Data Stack" (Databricks, Spark, SQL) alongside classic statistical software (R, SPSS, EViews).
+> **Statistics-first engineering:** I bring statistical inference, distribution analysis, and formal hypothesis testing into the data stack—so the data entering the business is as trustworthy as the decisions made from it.
 
----
+### 🎯 Core Strengths
 
-## 🛠️ Tech Stack & Expertise
+- **Statistical Integrity** — Applying probability, hypothesis testing, regression, and distribution modeling to data validation, anomaly detection, and feature engineering.
+- **Pipeline Scalability** — Architecting ETL/ELT workflows, star-schema models, and Delta Lake tables with Apache Spark, Databricks, and PostgreSQL.
+- **Tool Versatility** — Python, SQL, R/Tidyverse, and BI platforms for end-to-end analytics: from raw ingestion to executive dashboards.
+
+<hr />
+
+<a id="technical-skill-matrix"></a>
+## 🛠️ Technical Skill Matrix
 
 ### 🏗️ Data Engineering & Infrastructure
 ![SQL](https://img.shields.io/badge/SQL-3a86ff?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF0080?style=flat-square&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-00d2ff?style=flat-square&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00A8E1?style=flat-square&logo=linux&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00A8E1?style=flat-square&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF0080?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-0D1117?style=flat-square&logo=apacheparquet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 🔬 Statistics & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![R Language](https://img.shields.io/badge/R_Language-276DC3?style=flat-square&logo=r&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-1F4E79?style=flat-square&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-0C417A?style=flat-square&logoColor=white)
+![EViews](https://img.shields.io/badge/EViews-1F4E78?style=flat-square&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+
+### 🧪 Statistical Research & Geospatial Tools
+![JASP](https://img.shields.io/badge/JASP-4C72B0?style=flat-square)
+![Jamovi](https://img.shields.io/badge/Jamovi-E91E63?style=flat-square)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyderide&logoColor=white)
 
 ### 📊 Business Intelligence & Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
----
+<hr />
 
-## 📂 Featured Portfolio — Interactive Projects
+<a id="featured-portfolio"></a>
+## 📂 Featured Portfolio Projects
 
-<div align="center">
-
-### 🎯 Click on any project card to explore the repository
-
-</div>
-
-| 🎓 Project | 📊 Key Impact & Methods | 🔧 Tech Stack | ⭐ Repository Link |
+| Project | Key Impact & Methods | Tech Stack | Repo |
 |:---|:---|:---|:---|
-| **[Analyzing Students' Mental Health](https://github.com/jess-christine/Analyzing-Students-Mental-Health)** | PostgreSQL data analysis evaluating the impact of international university study on student mental health. Measured depression, social connectedness, and acculturative stress across length of stay. | PostgreSQL, SQL, Jupyter Notebook, Data Analysis | [:link: View Project](https://github.com/jess-christine/Analyzing-Students-Mental-Health) |
-| **[Building Walmart Retail Data Pipeline](https://github.com/jess-christine/Building-Walmart-Retail-Data-Pipeline)** | End-to-end Python ETL pipeline processing Walmart's e-commerce and retail sales data to evaluate macroeconomic and holiday sales trends. Built with Pandas, Parquet, and PostgreSQL. | Python, Pandas, Parquet, PostgreSQL, ETL | [:link: View Project](https://github.com/jess-christine/Building-Walmart-Retail-Data-Pipeline) |
-| **[Identifying Flight Duration Trends in NYC Air Travel](https://github.com/jess-christine/Identifying-Flight-Duration-Trends-in-Air-Travel)** | R and Tidyverse data analysis evaluating flight durations, route frequencies, and destination metrics for departures from major NYC airports during H2 2022. | R, Tidyverse, dplyr, Jupyter Notebook, Data Visualization | [:link: View Project](https://github.com/jess-christine/Identifying-Flight-Duration-Trends-in-Air-Travel) |
+| **Analyzing Students' Mental Health** | Evaluated how length of international study affects depression, social connectedness, and acculturative stress. Applied chi-square and ANOVA-style hypothesis tests, cohort segmentation, and PostgreSQL-driven statistical queries. | PostgreSQL, SQL, Jupyter | [View project ↗](https://github.com/jess-christine/Analyzing-Students-Mental-Health) |
+| **Walmart Retail Data Pipeline** | Built a complete ETL pipeline for macroeconomic and holiday sales trend analysis. Enforced schema-on-read with Parquet, used idempotent loads into PostgreSQL, and statistically compared holiday vs. non-holiday sales distributions. | Python, Pandas, Parquet, PostgreSQL | [View project ↗](https://github.com/jess-christine/Building-Walmart-Retail-Data-Pipeline) |
+| **NYC Flight Duration Trends** | Analyzed H2 2022 NYC departures with Tidyverse. Built `dplyr` pipelines to summarize route frequencies and delay distributions, revealing carrier and destination-level patterns via clean `ggplot2` visualizations. | R, Tidyverse, dplyr, Jupyter | [View project ↗](https://github.com/jess-christine/Identifying-Flight-Duration-Trends-in-Air-Travel) |
 
 <br />
 
----
-
-## 📈 Performance Metrics & Achievements
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jess-christine&show_icons=true&theme=github_dark&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jess-christine&layout=compact&theme=github_dark&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</div>
+<details>
+<summary><b>📈 GitHub Analytics (click to expand)</b></summary>
 <br />
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jess-christine&theme=github_dark&hide_border=true&ring=00d2ff&fire=ff0080&currStreakNum=ffffff&sideNums=00d2ff&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<br />
-
----
-
-## 🎯 2026 Strategic Goals
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <b>☁️ Cloud Architecture</b><br/>
-      <small>Azure Data Factory & Synapse Analytics</small>
-    </td>
-    <td align="center" width="25%">
-      <b>🔄 MLOps</b><br/>
-      <small>Model versioning with MLflow</small>
-    </td>
-    <td align="center" width="25%">
-      <b>🌍 Geospatial Insights</b><br/>
-      <small>Advanced QGIS integration</small>
-    </td>
-    <td align="center" width="25%">
-        <b>🤖 Machine Learning</b><br/>
-      <small>Deep Learning & Predictive Models</small>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jess-christine&show_icons=true&theme=github_dark&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jess-christine&layout=compact&theme=github_dark&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
   <br /><br />
+  <img src="https://streak-stats.demolab.com?user=jess-christine&theme=github-dark&hide_border=true&ring=00d2ff&fire=ff0080&currStreakNum=ffffff&sideNums=00d2ff&background=0d1117" alt="GitHub Streak" />
+</div>
+</details>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=50&section=footer" width="100%" />
-  
+<br />
+
+<a id="detailed-proficiency"></a>
+## 🎓 Deep-Dive Skills & Proficiency
+
+<details>
+<summary><b>Detailed proficiency breakdown (click to expand)</b></summary>
+<br />
+
+| Skill Category | Proficiency | Level | Key Strengths |
+|:---|:---:|:---:|:---|
+| **Python & SQL** | `████████████████████` 95% | Expert | ETL design, query optimization, Pandas, complex SQL |
+| **Data Engineering** | `███████████████████░` 92% | Expert | Spark, Databricks, Delta Lake, star-schema architecture |
+| **Statistical Analysis** | `██████████████████░░` 90% | Expert | Hypothesis testing, regression, distribution analysis |
+| **PostgreSQL & MySQL** | `█████████████████░░░` 88% | Expert | Query optimization, indexing, performance tuning |
+| **R & Tidyverse** | `████████████████░░░░` 85% | Advanced | dplyr, ggplot2, data wrangling, statistical modeling |
+| **JASP & Jamovi** | `████████████████░░░░` 85% | Advanced | Bayesian & frequentist testing, effect sizes, ANOVA workflows |
+| **Business Intelligence** | `████████████████░░░░` 85% | Advanced | Tableau, Power BI, KPI dashboard design |
+| **Machine Learning** | `███████████████░░░░░` 80% | Advanced | Scikit-learn, feature engineering, cross-validation |
+| **Geospatial & Scientific Tooling** | `█████████████░░░░░░░` 75% | Proficient | QGIS spatial analysis, Spyder-based scientific Python workflows |
+
+</details>
+
+<hr />
+
+<a id="future-roadmap"></a>
+## 🗺️ Future Roadmap & Goals
+
+| Timeline | Goal | Target Stack |
+|:---:|:---|:---|
+| **Q3 2026** | Cloud Architecture | Azure Data Factory, Synapse Analytics, Blob Storage |
+| **Q4 2026** | MLOps | MLflow, Model Registry, GitHub Actions CI/CD |
+| **Q1 2027** | Deep Learning | PyTorch, TensorFlow, Keras |
+| **Q2 2027** | Advanced Geospatial Analytics | GeoPandas, PostGIS, PySAL spatial statistics |
+
+<hr />
+
+<a id="connect"></a>
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jess-christine-manuel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/jess-christine" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Explore_Projects-FF0080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-3a86ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=00d2ff,3a86ff,ff0080&height=50&section=footer" width="100%" alt="Footer" />
+
   <br />
-  
+
   <img src="https://komarev.com/ghpvc/?username=jess-christine&color=ff0080&style=flat-square&label=Profile+Visitors" alt="Profile Views" />
 </div>
 
 <br />
 
----
-
 <div align="center">
-  <em>Made with 💙 by Jess Christine • Last updated: August 2026</em>
+  <em>Made with 💙 by Jess Christine · Last updated: September 2026</em>
 </div>
