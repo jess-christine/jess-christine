@@ -183,7 +183,6 @@ I am a **Data Professional** with an undergraduate degree in **Statistics** from
 
 <br />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jess-christine&theme=github_dark" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jess-christine&theme=github_dark" alt="Stats Card" />
 </div>
 <div align="center">
   <em> Last updated: September 2026</em>
