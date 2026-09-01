@@ -5,7 +5,6 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&lines=📊+Data+Engineer+%7C+🔬+Data+Scientist;🎯+Statistical+Analyst+%7C+📈+ML+Practitioner" />
 
-  <p><b>📍 Polytechnic University of the Philippines · Statistics</b></p>
 
   <div>
     <a href="https://www.linkedin.com/in/jess-christine-manuel" target="_blank">
@@ -35,7 +34,7 @@
 
 <div align="center">
   <details open>
-    <summary><b>🐍 Contribution Graph — Watch the Worm Eat My Commits (click to collapse)</b></summary>
+    <summary><b>🐍 Contribution Graph </b></summary>
     <br />
     <img src="https://raw.githubusercontent.com/jess-christine/jess-christine/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution worm animation — a snake crawling across the contribution grid eating commits" />
     <p><sub>The worm crawls across the real contribution grid and devours every square I've committed.</sub></p>
@@ -43,11 +42,8 @@
 </div>
 
 <div align="center">
-  <details>
-    <summary><b>📈 Annual Contribution Activity Graph (click to expand)</b></summary>
-    <br />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-christine&bg_color=0d1117&color=00d2ff&line=ff0080&point=3a86ff&area=true&hide_border=true" alt="Contribution Activity Graph" />
-  </details>
+  <img src="https://raw.githubusercontent.com/jess-christine/jess-christine/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/jess-christine/jess-christine/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" />
 </div>
 
 <br />
@@ -115,12 +111,14 @@ I am a **Data Professional** with an undergraduate degree in **Statistics** from
 
 <br />
 
+<br />
+
 <details>
 <summary><b>📈 GitHub Analytics (click to expand)</b></summary>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jess-christine&show_icons=true&theme=github_dark&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jess-christine&layout=compact&theme=github_dark&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jess-christine&show_icons=true&theme=github_dark&title_color=00d2ff&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jess-christine&layout=compact&theme=github_dark&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
   <br /><br />
   <img src="https://streak-stats.demolab.com?user=jess-christine&theme=github-dark&hide_border=true&ring=00d2ff&fire=ff0080&currStreakNum=ffffff&sideNums=00d2ff&background=0d1117" alt="GitHub Streak" />
 </div>
