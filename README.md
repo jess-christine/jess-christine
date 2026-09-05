@@ -27,8 +27,6 @@
   <a href="#executive-summary">Executive Summary</a> •
   <a href="#technical-skill-matrix">Skill Matrix</a> •
   <a href="#featured-portfolio">Portfolio</a> •
-  <a href="#detailed-proficiency">Proficiency</a> •
-  <a href="#future-roadmap">Roadmap</a> •
   <a href="#connect">Contact</a>
 </p>
 
@@ -122,39 +120,6 @@ I am a **Data Professional** with an undergraduate degree in **Statistics** from
 
 <br />
 
-<a id="detailed-proficiency"></a>
-## 🎓 Deep-Dive Skills & Proficiency
-
-<details>
-<summary><b>Detailed proficiency breakdown (click to expand)</b></summary>
-<br />
-
-| Skill Category | Proficiency | Level | Key Strengths |
-|:---|:---:|:---:|:---|
-| **Python & SQL** | `████████████████████` 95% | Expert | ETL design, query optimization, Pandas, complex SQL |
-| **Data Engineering** | `███████████████████░` 92% | Expert | Spark, Databricks, Delta Lake, star-schema architecture |
-| **Statistical Analysis** | `██████████████████░░` 90% | Expert | Hypothesis testing, regression, distribution analysis |
-| **PostgreSQL & MySQL** | `█████████████████░░░` 88% | Expert | Query optimization, indexing, performance tuning |
-| **R & Tidyverse** | `████████████████░░░░` 85% | Advanced | dplyr, ggplot2, data wrangling, statistical modeling |
-| **JASP & Jamovi** | `████████████████░░░░` 85% | Advanced | Bayesian & frequentist testing, effect sizes, ANOVA workflows |
-| **Business Intelligence** | `████████████████░░░░` 85% | Advanced | Tableau, Power BI, KPI dashboard design |
-| **Machine Learning** | `███████████████░░░░░` 80% | Advanced | Scikit-learn, feature engineering, cross-validation |
-
-</details>
-
-<hr />
-
-<a id="future-roadmap"></a>
-## 🗺️ Future Roadmap & Goals
-
-| Timeline | Goal | Target Stack |
-|:---:|:---|:---|
-| **Q3 2026** | Cloud Architecture | Azure Data Factory, Synapse Analytics, Blob Storage |
-| **Q4 2026** | MLOps | MLflow, Model Registry, GitHub Actions CI/CD |
-| **Q1 2027** | Deep Learning | PyTorch, TensorFlow, Keras |
-| **Q2 2027** | Advanced Geospatial Analytics | GeoPandas, PostGIS, PySAL spatial statistics |
-
-<hr />
 
 <a id="connect"></a>
 ## 📫 Let's Connect
