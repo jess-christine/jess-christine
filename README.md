@@ -24,7 +24,7 @@
 <br />
 
 <p align="center">
-  <a href="#executive-summary">Executive Summary</a> •
+  <a href="#about-me">Executive Summary</a> •
   <a href="#technical-skill-matrix">Skill Matrix</a> •
   <a href="#featured-portfolio">Portfolio</a> •
   <a href="#connect">Contact</a>
@@ -43,14 +43,14 @@
 
 <hr />
 
-<a id="executive-summary"></a>
-## 🚀 Executive Summary
+<a id="about-me"></a>
+## About Me
 
 I am a **Data Professional** with an undergraduate degree in **Statistics** from the **Polytechnic University of the Philippines**. I bridge rigorous statistical theory and scalable data engineering: every pipeline I design treats data quality as an experiment, every transformation as a hypothesis, and every model as something that must be validated with evidence.
 
 > **Statistics-first engineering:** I bring statistical inference, distribution analysis, and formal hypothesis testing into the data stack—so the data entering the business is as trustworthy as the decisions made from it.
 
-### 🎯 Core Strengths
+### Core Principles
 
 - **Statistical Integrity** — Applying probability, hypothesis testing, regression, and distribution modeling to data validation, anomaly detection, and feature engineering.
 - **Pipeline Scalability** — Architecting ETL/ELT workflows, star-schema models, and Delta Lake tables with Apache Spark, Databricks, and PostgreSQL.
