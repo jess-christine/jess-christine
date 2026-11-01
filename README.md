@@ -3,9 +3,9 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&lines=📊+Data+Engineer+%7C+🔬+Data+Scientist;🎯+Statistical+Analyst+%7C+📈+ML+Practitioner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&lines=📊+Data+Engineer+%7C+🔬+Data+Scientist;🎯+Statistical+Analyst+%7C+📈+ML+Practitioner" alt="Data engineering, data science, statistics, and machine learning" />
 <div align="center">
-  <!-- Add additional stats widgets here if desired -->
+  <!-- Profile contact links -->
   
 
   <div>
@@ -15,16 +15,17 @@
     <a href="https://github.com/jess-christine" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Portfolio-FF0080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
     </a>
-    <a href="mailto:your-email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-Get_in_touch-3a86ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://www.linkedin.com/in/jess-christine-manuel" target="_blank">
+      <img src="https://img.shields.io/badge/Message-Get_in_touch-3a86ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn" />
     </a>
   </div>
+</div>
 </div>
 
 <br />
 
 <p align="center">
-  <a href="#about-me">Executive Summary</a> •
+  <a href="#about-me">About Me</a> •
   <a href="#technical-skill-matrix">Skill Matrix</a> •
   <a href="#featured-portfolio">Portfolio</a> •
   <a href="#connect">Contact</a>
@@ -36,29 +37,37 @@
   <details open>
     <summary><b>🐍 Contribution Graph </b></summary>
     <br />
-    <img src="https://raw.githubusercontent.com/jess-christine/jess-christine/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution worm animation — a snake crawling across the contribution grid eating commits" />
-    <p><sub>The worm crawls across the real contribution grid and devours every square I've committed.</sub></p>
+    <img src="https://raw.githubusercontent.com/jess-christine/jess-christine/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving across my GitHub contribution grid" />
+    <p><sub>An animated view of my GitHub contribution history.</sub></p>
   </details>
 </div>
 
 <hr />
 
 <a id="about-me"></a>
+
 ## About Me
 
-I am a **Data Professional** with an undergraduate degree in **Statistics** from the **Polytechnic University of the Philippines**. I bridge rigorous statistical theory and scalable data engineering: every pipeline I design treats data quality as an experiment, every transformation as a hypothesis, and every model as something that must be validated with evidence.
+I am a **Statistics graduate from the Polytechnic University of the Philippines** and a **Databricks Certified Data Engineer Associate**, with project experience in data engineering and analytics.
 
-> **Statistics-first engineering:** I bring statistical inference, distribution analysis, and formal hypothesis testing into the data stack—so the data entering the business is as trustworthy as the decisions made from it.
+My background in statistics shapes how I approach data: asking clear questions, checking assumptions, and interpreting results carefully. Through the **FTW Foundation Data Engineering scholarship program**, I built on that foundation with training in data pipelines, data integration, and collaborative development.
+
+For our capstone, **Project AHON**, I led the team's **Technical Subgroup**, working with my teammates on a Databricks platform that brings public-sector data together to support local disaster preparedness.
+
+I'm interested in **data engineering and data science opportunities** where I can combine analytical thinking, technical skills, and teamwork to solve meaningful problems.
+
+> **My focus:** Preparing reliable data, developing thoughtful analyses, and communicating findings clearly.
 
 ### Core Principles
 
-- **Statistical Integrity** — Applying probability, hypothesis testing, regression, and distribution modeling to data validation, anomaly detection, and feature engineering.
-- **Pipeline Scalability** — Architecting ETL/ELT workflows, star-schema models, and Delta Lake tables with Apache Spark, Databricks, and PostgreSQL.
-- **Tool Versatility** — Python, SQL, R/Tidyverse, and BI platforms for end-to-end analytics: from raw ingestion to executive dashboards.
+- **Analytical Rigor** — Checking assumptions, understanding data limitations, and grounding conclusions in evidence.
+- **Reliable Data Workflows** — Applying data cleaning, validation, and structured transformations to prepare data for analysis.
+- **Collaboration & Learning** — Communicating technical decisions, learning from feedback, and building solutions with teammates.
 
 <hr />
 
 <a id="technical-skill-matrix"></a>
+
 ## 🛠️ Technical Skill Matrix
 
 ### 🏗️ Data Engineering & Infrastructure
@@ -95,13 +104,20 @@ I am a **Data Professional** with an undergraduate degree in **Statistics** from
 <hr />
 
 <a id="featured-portfolio"></a>
+
 ## 📂 Featured Portfolio Projects
 
-| Project | Key Impact & Methods | Tech Stack | Repo |
+| Project | Contribution & Work Demonstrated | Tech Stack | Repo |
 |:---|:---|:---|:---|
-| **Analyzing Students' Mental Health** | Evaluated how length of international study affects depression, social connectedness, and acculturative stress. Applied chi-square and ANOVA-style hypothesis tests, cohort segmentation, and PostgreSQL-driven statistical queries. | PostgreSQL, SQL, Jupyter | [View project ↗](https://github.com/jess-christine/Analyzing-Students-Mental-Health) |
-| **Walmart Retail Data Pipeline** | Built a complete ETL pipeline for macroeconomic and holiday sales trend analysis. Enforced schema-on-read with Parquet, used idempotent loads into PostgreSQL, and statistically compared holiday vs. non-holiday sales distributions. | Python, Pandas, Parquet, PostgreSQL | [View project ↗](https://github.com/jess-christine/Building-Walmart-Retail-Data-Pipeline) |
-| **NYC Flight Duration Trends** | Analyzed H2 2022 NYC departures with Tidyverse. Built `dplyr` pipelines to summarize route frequencies and delay distributions, revealing carrier and destination-level patterns via clean `ggplot2` visualizations. | R, Tidyverse, dplyr, Jupyter | [View project ↗](https://github.com/jess-christine/Identifying-Flight-Duration-Trends-in-Air-Travel) |
+| **Project AHON — LGU-Level Earthquake Preparedness Data Platform** | Led the team's **Technical Subgroup**. Our team built a layered batch pipeline integrating public-sector data on population, government capacity, disaster funding, and earthquake observations to support local preparedness analysis. | Databricks, Python, SQL, Delta Lake | [View project ↗](https://github.com/Project-AHON/AHON-Pipeline) |
+| **Instacart Data Warehouse & Pipeline** | Collaborative FTW project using Bronze, Silver, and Gold layers, a dimensional model, SQL data-quality checks, job orchestration, and CI/CD configuration. Supports order, product, and reorder analysis. | Databricks SQL, Delta Lake, Unity Catalog, GitHub Actions | [View project ↗](https://github.com/jess-christine/instacart-pipeline) |
+| **Analyzing Students' Mental Health** | Used SQL filtering and aggregation to compare international-student cohort sizes and average depression, social connectedness, and acculturative stress scores by length of stay. Descriptive analysis. | PostgreSQL, SQL, Jupyter | [View project ↗](https://github.com/jess-christine/Analyzing-Students-Mental-Health) |
+| **Walmart Retail Data Pipeline** | Explored retail ETL using SQL and Parquet inputs, data cleaning, and monthly sales aggregation. | Python, Pandas, Parquet, PostgreSQL | [View project ↗](https://github.com/jess-christine/Building-Walmart-Retail-Data-Pipeline) |
+| **NYC Flight Duration Trends** | Joined flight, airline, and airport datasets; calculated flight counts and average durations; identified frequent routes, long-duration routes, and uncommon destinations. | R, dplyr, readr, Jupyter | [View project ↗](https://github.com/jess-christine/Identifying-Flight-Duration-Trends-in-Air-Travel) |
+
+**Explore AHON:** [Architecture](https://github.com/Project-AHON/AHON-Pipeline/blob/main/docs/architecture/overview.md) 
+
+AHON and Instacart are team projects. AHON's documented source coverage, geographic-matching limitations, and implemented metrics guide interpretation of its outputs.
 
 <br />
 
@@ -122,7 +138,10 @@ I am a **Data Professional** with an undergraduate degree in **Statistics** from
 
 
 <a id="connect"></a>
+
 ## 📫 Let's Connect
+
+I welcome conversations about data engineering, data science, and collaborative projects. Reach me on LinkedIn to discuss opportunities or exchange ideas.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jess-christine-manuel" target="_blank">
@@ -131,8 +150,8 @@ I am a **Data Professional** with an undergraduate degree in **Statistics** from
   <a href="https://github.com/jess-christine" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Explore_Projects-FF0080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-3a86ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.linkedin.com/in/jess-christine-manuel" target="_blank">
+    <img src="https://img.shields.io/badge/Message-Get_In_Touch-3a86ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn" />
   </a>
 </div>
 
@@ -148,7 +167,7 @@ I am a **Data Professional** with an undergraduate degree in **Statistics** from
 
 <br />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jess-christine&theme=github_dark" alt="Profile Details" />
-</div>
 <div align="center">
-  <em> Last updated: September 2026</em>
+  <em> Last updated: November 2026</em>
 </div>
+
